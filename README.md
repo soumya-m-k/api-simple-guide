@@ -29,3 +29,6 @@ THE Application submitting request is called client. server provides the respons
 + The API server receive and process the request. the process may include validation,authorization ,authenticating the client and some other necessary operation.
 + The server sends response back to the client, which includes data ,error message and status code shows the result of the operation.
 + The client receive the response data and process it.
+
+# API Architectural Styles and protocols
+API architectures define how systems communicate and exchange data, each offering different levels of flexibility, performance, and structure based on application needs.
