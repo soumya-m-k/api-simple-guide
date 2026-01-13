@@ -22,7 +22,10 @@ THE Application submitting request is called client. server provides the respons
 + A client sends request to an API server through internet. the request is made using specific protocols such as HTTP(hyper text transfer protocol).\the request includes data like request body,http method,endpoint and some parameterto perform operation like retrieving or updating data.
   
     here what http protocol includes
-    -  **request** is sent from client to server.  
+    -  **A request** is sent from client to server.
+    -  **An endpoint** defines specific URL path that tells the API what data or action neeeded.
+    -  **A method** such as GET(to retrieve data), POST(to send data), PUT(to update) and DELETE specifies the type of request.
+    -  **A response** is returned usually in JSON or XML,containing result of the request.
 + The API server receive and process the request. the process may include validation,authorization ,authenticating the client and some other necessary operation.
 + The server sends response back to the client, which includes data ,error message and status code shows the result of the operation.
 + The client receive the response data and process it.
