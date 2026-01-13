@@ -18,6 +18,6 @@ API uses client-server model to exchange data using request and response method.
 
 THE Application submitting request is called client. server provides the response.\
 
-<img src="https://dhtmlx.com/blog/wp-content/uploads/2022/12/how-apis-work-2.png" alt="Alt text" width="500" height="300">
+<img src="https://dhtmlx.com/blog/wp-content/uploads/2022/12/how-apis-work-2.png" alt="Alt text" width="700" height="500">
 
 !(https://dhtmlx.com/blog/wp-content/uploads/2022/12/how-apis-work-2.png)
