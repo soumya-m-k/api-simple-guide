@@ -39,6 +39,8 @@ API architectures define how systems communicate and exchange data, each offerin
   
 * **SOAP API**: SOAP stands for Simple Object Access Protocol API.It is style that uses and rely strictly on XML protocol to exchange message for request and response. it is widely used in financial related industries like payment Gateways,CRM solutuions.
 
-* **gRPC API**: gRPC uses protocol buffers rather than JSON or XML as message exchange format for request and response.
+* **gRPC API**: gRPC is high performance RPC framework, uses protocol buffers rather than JSON or XML as message exchange format for request and response. it is great for microservice architectures.
+
+* **GraphQL API**: It is query langauge allow the clients to ask for specific data as they needed through single path and it eliminates the multiple requests. Client query retrieves needed data only it leads request-response fast and specific.
 
   
