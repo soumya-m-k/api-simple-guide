@@ -1,3 +1,4 @@
+
 # What is API?
 
 API Stands for Application Programming Interface, it is set of rules or protocols that provides interface \
@@ -32,3 +33,6 @@ THE Application submitting request is called client. server provides the respons
 
 # API Architectural Styles and protocols
 API architectures define how systems communicate and exchange data, each offering different levels of flexibility, performance, and structure based on application needs.
+
+* **REST API**: REST is Representational state transfer protocol. It uses HTTPs methods to make request and responses.\ the request are made through URL paths and response are return in JSON format.\
+  this is easy to use because of its simplicity, flexibility and statelessness
