@@ -51,4 +51,4 @@ API architectures define how systems communicate and exchange data, each offerin
  
   * **Automation**: API automates the repititve work and avoid human errors. it reduces time consuming in work process,allows exceptional user interaction.
  
-  * **scalability and flexibility
+  * **Security**: API act as security intermediate between client and server by providing only needed data, services and hiding internal system function through interfaces. It provides security in the form of authentication and authorization. they are some kind of authentication like API keys, Bearer token and Oauth etc.
