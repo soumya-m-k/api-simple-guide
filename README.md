@@ -44,4 +44,11 @@ API architectures define how systems communicate and exchange data, each offerin
 * **GraphQL API**: It is query langauge allow the clients to ask for specific data as they needed through single path and it eliminates the multiple requests. Client query retrieves needed data only it leads request-response fast and specific.
 
   # Benefits of API
-  
+  API offers wide range of significant benefits to organizations, developer and technology by enabling secure communication between client and server.
+  * **Innovation and agility**: API gives data and services as reusable, enables organization and developers to use it and create new feature and application to unlock innovation. API helps to create new methods for fast development instead of building from scratch.
+ 
+  * **Integration and higher performance**: API provides developers and partners data they needed to make it easy for development and fast performance. It can be used by anyone because it shares common syntax to exchange data through HTTPS protocol.
+ 
+  * **Automation**: API automates the repititve work and avoid human errors. it reduces time consuming in work process,allows exceptional user interaction.
+ 
+  * **scalability and flexibility
