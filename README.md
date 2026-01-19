@@ -43,4 +43,5 @@ API architectures define how systems communicate and exchange data, each offerin
 
 * **GraphQL API**: It is query langauge allow the clients to ask for specific data as they needed through single path and it eliminates the multiple requests. Client query retrieves needed data only it leads request-response fast and specific.
 
+  # Benefits of API
   
